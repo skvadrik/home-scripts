@@ -1,0 +1,15 @@
+[color]
+	ui = auto
+[user]
+	name = Ulya Trofimovich
+	email = skvadrik@gmail.com
+[push]
+	default = simple
+
+[difftool "xxdiff"]
+	path = /usr/bin/xxdiff
+	trustExitCode = false
+[difftool]
+	prompt = true
+[diff]
+	tool = xxdiff
